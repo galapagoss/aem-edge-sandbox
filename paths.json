@@ -1,5 +1,6 @@
 {
   "mappings": [
-    "/content/aem-edge-sandbox/:/"
+    "/content/aem-edge-sandbox/:/",
+    "/content/aem-edge-sandbox/redirects:/redirects.json"
   ]
 }
