@@ -1,5 +1,2 @@
 mountpoints:
-  /:
-    url: "https://author-p125302-e1231713.adobeaemcloud.com/bin/franklin.delivery/galapagoss/aem-edge-sandbox/main"
-    type: "markup"
-    suffix: ".html"
+  /: https://drive.google.com/drive/u/2/folders/14ElQ0oENu3jCw9yTYpvlf7lGAS26HGs2
