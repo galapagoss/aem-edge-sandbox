@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--aem-edge-sandbox--galapagoss.hlx.page/
-- Live: https://main--aem-edge-sandbox--galapagoss.hlx.live/
+- Preview: https://feature-prueba-domi--aem-edge-sandbox--galapagoss.hlx.page/
+- Live: https://feature-prueba-domi--aem-edge-sandbox--galapagoss.hlx.live/
 
 ## Installation
 
