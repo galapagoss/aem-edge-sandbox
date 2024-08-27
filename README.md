@@ -1,9 +1,9 @@
 # Your Project's Title...
 Your project's description...
 
-## Environments
-- Preview: https://feature-prueba-domi--aem-edge-sandbox--galapagoss.hlx.page/
-- Live: https://feature-prueba-domi--aem-edge-sandbox--galapagoss.hlx.live/
+## Environments 
+- Preview: https://main--aem-edge-sandbox--galapagoss.hlx.page/
+- Live: https://main--aem-edge-sandbox--galapagoss.hlx.live/
 
 ## Installation
 

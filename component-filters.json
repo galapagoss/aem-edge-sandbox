@@ -15,7 +15,27 @@
       "text",
       "image",
       "button",
-      "title"
+      "title",
+      "pizza",
+      "bocadillo",
+      "tortilla",
+      "pan",
+      "sal",
+      "azucar",
+      "coco",
+      "pina",
+      "platano",
+      "galleta",
+      "letra",
+      "casa",
+      "libro",
+      "cuaderno",
+      "vida",
+      "albondigas",
+      "arroz",
+      "pasta",
+      "pechuga",
+      "solomillo"
     ]
   },
   {
@@ -27,7 +47,27 @@
       "title",
       "hero",
       "cards",
-      "columns"
+      "columns",
+      "pizza",
+      "bocadillo",
+      "tortilla",
+      "pan",
+      "sal",
+      "azucar",
+      "coco",
+      "pina",
+      "platano",
+      "galleta",
+      "letra",
+      "casa",
+      "libro",
+      "cuaderno",
+      "vida",
+      "albondigas",
+      "arroz",
+      "pasta",
+      "pechuga",
+      "solomillo"
     ]
   },
   {
@@ -46,7 +86,27 @@
       "hero",
       "cards",
       "columns",
-      "quote"
-     ]
+      "quote",
+      "pizza",
+      "bocadillo",
+      "tortilla",
+      "pan",
+      "sal",
+      "azucar",
+      "coco",
+      "pina",
+      "platano",
+      "galleta",
+      "letra",
+      "casa",
+      "libro",
+      "cuaderno",
+      "vida",
+      "albondigas",
+      "arroz",
+      "pasta",
+      "pechuga",
+      "solomillo"
+    ]
   }  
 ]
