@@ -1,7 +1,7 @@
 # Your Project's Title...
 Your project's description...
 
-## Environments
+## Environments 
 - Preview: https://main--aem-edge-sandbox--galapagoss.hlx.page/
 - Live: https://main--aem-edge-sandbox--galapagoss.hlx.live/
 
