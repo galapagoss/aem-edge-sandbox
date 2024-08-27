@@ -160,7 +160,9 @@
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/title/v1/title",
-                "template": {}
+                "template": {
+                  "name": "pizza"
+                }
               }
             }
           }
@@ -172,7 +174,9 @@
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/title/v1/title",
-                "template": {}
+                "template": {
+                  "name": "bocadillo"
+                }
               }
             }
           }
@@ -184,7 +188,9 @@
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/title/v1/title",
-                "template": {}
+                "template": {
+                  "name": "tortilla"
+                }
               }
             }
           }
@@ -196,7 +202,9 @@
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/title/v1/title",
-                "template": {}
+                "template": {
+                  "name": "pan"
+                }
               }
             }
           }
@@ -208,7 +216,9 @@
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/title/v1/title",
-                "template": {}
+                "template": {
+                  "name": "Sal"
+                }
               }
             }
           }
@@ -220,7 +230,9 @@
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/title/v1/title",
-                "template": {}
+                "template": {
+                  "name": "Azucar"
+                }
               }
             }
           }
@@ -232,7 +244,9 @@
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/title/v1/title",
-                "template": {}
+                "template": {
+                  "name": "Coco"
+                }
               }
             }
           }
@@ -244,7 +258,9 @@
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/title/v1/title",
-                "template": {}
+                "template": {
+                  "name": "pina"
+                }
               }
             }
           }
@@ -256,7 +272,9 @@
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/title/v1/title",
-                "template": {}
+                "template": {
+                  "name": "Platano"
+                }
               }
             }
           }
@@ -268,7 +286,9 @@
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/title/v1/title",
-                "template": {}
+                "template": {
+                  "name": "galleta"
+                }
               }
             }
           }
@@ -280,7 +300,9 @@
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/title/v1/title",
-                "template": {}
+                "template": {
+                  "name": "letra"
+                }
               }
             }
           }
@@ -292,7 +314,9 @@
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/title/v1/title",
-                "template": {}
+                "template": {
+                  "name": "casa"
+                }
               }
             }
           }
@@ -304,7 +328,9 @@
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/title/v1/title",
-                "template": {}
+                "template": {
+                  "name": "libro"
+                }
               }
             }
           }
@@ -316,7 +342,9 @@
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/title/v1/title",
-                "template": {}
+                "template": {
+                  "name": "cuaderno"
+                }
               }
             }
           }
@@ -328,7 +356,9 @@
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/title/v1/title",
-                "template": {}
+                "template": {
+                  "name": "vida"
+                }
               }
             }
           }
@@ -340,7 +370,9 @@
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/title/v1/title",
-                "template": {}
+                "template": {
+                  "name": "albondigas"
+                }
               }
             }
           }
@@ -352,7 +384,9 @@
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/title/v1/title",
-                "template": {}
+                "template": {
+                  "name": "arroz"
+                }
               }
             }
           }
@@ -364,7 +398,9 @@
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/title/v1/title",
-                "template": {}
+                "template": {
+                  "name": "pasta"
+                }
               }
             }
           }
@@ -376,7 +412,9 @@
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/title/v1/title",
-                "template": {}
+                "template": {
+                  "name": "pechuga"
+                }
               }
             }
           }
@@ -387,8 +425,10 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/title/v1/title",
-                "template": {}
+                "resourceType": "core/franklin/components/text/v1/text",
+                "template": {
+                  "name": "solomillo"
+                }
               }
             }
           }
