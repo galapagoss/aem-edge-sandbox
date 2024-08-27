@@ -159,7 +159,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/block/v1/block/item",
+                "resourceType": "core/franklin/components/text/v1/text",
                 "template": {}
               }
             }
@@ -171,7 +171,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/block/v1/block/item",
+                "resourceType": "core/franklin/components/text/v1/text",
                 "template": {}
               }
             }
@@ -183,7 +183,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/block/v1/block/item",
+                "resourceType": "core/franklin/components/text/v1/text",
                 "template": {}
               }
             }
@@ -195,7 +195,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/block/v1/block/item",
+                "resourceType": "core/franklin/components/text/v1/text",
                 "template": {}
               }
             }
@@ -207,7 +207,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/block/v1/block/item",
+                "resourceType": "core/franklin/components/text/v1/text",
                 "template": {}
               }
             }
@@ -219,7 +219,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/block/v1/block/item",
+                "resourceType": "core/franklin/components/text/v1/text",
                 "template": {}
               }
             }
@@ -231,7 +231,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/block/v1/block/item",
+                "resourceType": "core/franklin/components/text/v1/text",
                 "template": {}
               }
             }
@@ -243,7 +243,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/block/v1/block/item",
+                "resourceType": "core/franklin/components/text/v1/text",
                 "template": {}
               }
             }
@@ -255,7 +255,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/block/v1/block/item",
+                "resourceType": "core/franklin/components/text/v1/text",
                 "template": {}
               }
             }
@@ -267,7 +267,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/block/v1/block/item",
+                "resourceType": "core/franklin/components/text/v1/text",
                 "template": {}
               }
             }
@@ -279,7 +279,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/block/v1/block/item",
+                "resourceType": "core/franklin/components/text/v1/text",
                 "template": {}
               }
             }
@@ -291,7 +291,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/block/v1/block/item",
+                "resourceType": "core/franklin/components/text/v1/text",
                 "template": {}
               }
             }
@@ -303,7 +303,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/block/v1/block/item",
+                "resourceType": "core/franklin/components/text/v1/text",
                 "template": {}
               }
             }
@@ -315,7 +315,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/block/v1/block/item",
+                "resourceType": "core/franklin/components/text/v1/text",
                 "template": {}
               }
             }
@@ -327,7 +327,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/block/v1/block/item",
+                "resourceType": "core/franklin/components/text/v1/text",
                 "template": {}
               }
             }
@@ -339,7 +339,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/block/v1/block/item",
+                "resourceType": "core/franklin/components/text/v1/text",
                 "template": {}
               }
             }
@@ -351,7 +351,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/block/v1/block/item",
+                "resourceType": "core/franklin/components/text/v1/text",
                 "template": {}
               }
             }
@@ -363,7 +363,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/block/v1/block/item",
+                "resourceType": "core/franklin/components/text/v1/text",
                 "template": {}
               }
             }
@@ -375,7 +375,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/block/v1/block/item",
+                "resourceType": "core/franklin/components/text/v1/text",
                 "template": {}
               }
             }
@@ -387,7 +387,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/block/v1/block/item",
+                "resourceType": "core/franklin/components/text/v1/text",
                 "template": {}
               }
             }
