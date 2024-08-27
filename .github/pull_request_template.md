@@ -3,5 +3,5 @@ Please always provide the [GitHub issue(s)](../issues) your PR is for, as well a
 Fix #<gh-issue-id>
 
 Test URLs:
-- Before: https://main--aem-edge-sandbox--galapagoss.hlx.live/
+- Before: https://feature-prueba-drive--aem-edge-sandbox--galapagoss.hlx.live/
 - After: https://<branch>--aem-edge-sandbox--galapagoss.hlx.live/
